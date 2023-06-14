@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1660734395 source:d:\coding\ass_cs201\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1660734395 source:c:\users\asus\onedrive\desktop\virat_2021csb1220_lab_assignment2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

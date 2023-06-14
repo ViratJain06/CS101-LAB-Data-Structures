@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1661513574 source:d:\coding\cs201_ass2\main.c
+	<stdio.h>
+	<stdlib.h>
+
